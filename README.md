@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tyclonie&show_icons=true&hide_border=true&theme=merko" />
+<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tyclonie&show_icons=true&hide_border=true&theme=merko" />
 
 <br>
 
