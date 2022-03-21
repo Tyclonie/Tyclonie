@@ -12,7 +12,9 @@
 
 ### My links
 [<img align="left" alt="Tyclonie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Tyclonie | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord.svg" />][discord]
 [<img align="left" alt="Tyclonie | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" />][github]
 
 [youtube]: https://www.youtube.com/channel/UC9gnPnmMd3DX-qLteyHPW3w
 [github]: https://github.com/Tyclonie
+[discord]: https://discord.gg/grarjWuZKd
