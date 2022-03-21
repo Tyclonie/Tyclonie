@@ -1,16 +1,17 @@
-### Hi there 👋
+### Tyclonie
 
-<!--
-**Tyclonie/Tyclonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring student with a love for developing and a growing passion for cyber security
 
-Here are some ideas to get you started:
+# My top Github projects
+- 💥 Discord Nuke Bot
+- 🧹 Discord Clean Up
+- 📋 Discord Server Copier
+- 🎮 Command Line Wordle Clone
+- 💬 Messaging App (Currently Private)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My links
+[<img allign="left" alt="Tyclonie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />][youtube]
+[<img allign="left" alt="Tyclonie | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" />][github]
+
+[youtube]: https://www.youtube.com/channel/UC9gnPnmMd3DX-qLteyHPW3w
+[github]: https://github.com/Tyclonie
