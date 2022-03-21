@@ -8,9 +8,11 @@
 - 💬 Messaging App (Currently Private)
 - 📋 Multi-Clipboard
 
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tyclonie" />
+
 ### My links
-[<img allign="left" alt="Tyclonie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />][youtube]
-[<img allign="left" alt="Tyclonie | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" />][github]
+[<img align="left" alt="Tyclonie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Tyclonie | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" />][github]
 
 [youtube]: https://www.youtube.com/channel/UC9gnPnmMd3DX-qLteyHPW3w
 [github]: https://github.com/Tyclonie
