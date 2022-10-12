@@ -4,7 +4,6 @@
 - 💥 Discord Nuke Bot
 - 🧹 Discord Clean Up
 - 📎 Discord Server Copier
-- 🎮 Command Line Wordle Clone
 - 💬 Messaging App (Currently Private)
 - 📋 Multi-Clipboard
 
